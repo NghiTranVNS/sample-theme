@@ -1,0 +1,33 @@
+{
+  "name": "Spring 2024",
+  "version": "0.1.0", 
+  "min_app_version":"0.2.0.1080", 
+  "colors": {
+    "primary_color": "FF905C47",
+    "secondary_color": "FFFFEFB2",
+    "disable_color": "FFD5D5D5"
+  },
+  "assets": {
+    "png": {
+        "make_icon":"",
+        "home_icon":"assets/png/ic-home.png",
+        "cloud_icon":"assets/png/ic-cloud.png",
+        "banking_icon":"assets/png/ic-banking.png",
+        "scan_icon":"assets/png/ic-scan.png",
+        "notification_icon":"assets/png/ic-noti.png"
+    },
+    "sgv": {
+        "make_background":"",
+        "make_story_popup_background":"assets/svg/yearlyDialogBackground.svg"
+    },
+    "riv": {
+        "home_animation":"assets/riv/anim_01.riv"
+    }
+  },
+  "font_family": "",
+  "fonts": {
+    "popup_title_font_size": 24,
+    "popup_title_font_style": "italic",
+    "popup_description_font_size": 18
+  }
+}
