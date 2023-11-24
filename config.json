@@ -17,7 +17,7 @@
         "notification_icon":"assets/png/ic-noti.png"
     },
     "svg": {
-        "theme_debug_background":"assets/svg/new2kStep7SourceIncomeBackground.svg",
+        "theme_debug_background":"assets/svg/bg-theme-debug-tom.svg",
         "new_2k_step7_source_income_background":"assets/svg/new2kStep7SourceIncomeBackground.svg"
     },
     "riv": {
