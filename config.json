@@ -1,6 +1,6 @@
 {
   "name": "Spring 2024",
-  "version": "0.1.1", 
+  "version": "0.1.2", 
   "min_app_version":"0.2.0.469", 
   "colors": {
     "primary_color": "FF905C47",
@@ -17,7 +17,7 @@
         "notification_icon":"assets/png/ic-noti.png"
     },
     "svg": {
-        "theme_debug_background":"assets/svg/bg-theme-debug-tom.svg",
+        "theme_debug_background":"assets/svg/bg-theme-debug-tom-2.svg",
         "new_2k_step7_source_income_background":"assets/svg/new2kStep7SourceIncomeBackground.svg"
     },
     "riv": {
